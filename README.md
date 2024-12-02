@@ -7,14 +7,14 @@ Microsoft SQL Server.
 
 - .NET 8.0 Windows Forms
 - Entity Framework Core
-- SQL Server Express
+- Microsoft SQL Server
 - C#
 
 ## Database Setup Options
 
 ### Option 1: Using Entity Framework Migrations (Recommended for Developers)
 
-1. Update connection string in App.config
+1. Copy App.config.example to string in App.config
 2. Open Package Manager Console in Visual Studio
 3. Run:
    ```powershell
